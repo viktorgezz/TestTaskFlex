@@ -1,0 +1,3 @@
+GET http://localhost:8080//calculate?averageAnnualSalary=&vacationDays=-21
+###
+GET http://localhost:8080//calculate?averageAnnualSalary=10000&vacationDays=6&vacationStart=2024-09-02&vacationEnd=2024-09-07
